@@ -1,4 +1,1 @@
 GitHub on interneti majutusteenus tarkvara arendamiseks ning versioonikontrollimiseks kasutades Git-i.
-
-GitHubi saan edaspidi kasutada Tarvaralahenduste tunnis ning Skriptimise tunnis.
-Saan Linuxi süsteemis tehtud ülesannete failid üleslaadida GitHubi hoidlasse.
