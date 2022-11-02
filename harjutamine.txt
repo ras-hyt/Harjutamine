@@ -1,0 +1,1 @@
+GitHub on interneti majutusteenus tarkvara arendamiseks ning versioonikontrollimiseks kasutades Git-i.
