@@ -2,3 +2,5 @@ GitHub on interneti majutusteenus tarkvara arendamiseks ning versioonikontrollim
 
 GitHubi saan edaspidi kasutada Tarvaralahenduste tunnis ning Skriptimise tunnis.
 Saan Linuxi süsteemis tehtud ülesannete failid üleslaadida GitHubi hoidlasse.
+
+GitHubi asutas aastal 2007 Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon. Paar kuud hiljem, aastal 2008, oli teenus kättesaadav tavakasutajale.
